@@ -1,0 +1,17 @@
+# ignored dirs
+/.idea
+.idea/*
+
+# ignored files
+*.xml
+*.iml
+*.pyc
+*.log
+*.xls
+*.xlsx
+*.zip
+*DS_Store
+nohup.out
+session_sid*
+www
+config.py
